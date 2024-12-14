@@ -15,7 +15,7 @@ class _ThirdPageState extends State<ThirdPage> {
       appBar: AppBar(
         backgroundColor: Color.fromARGB(255, 64, 56, 216),
         title: Text(
-          "Text Snap",
+          "Text utils",
           style: TextStyle(
             color: Colors.white,
           ),
